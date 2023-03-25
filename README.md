@@ -33,3 +33,18 @@ e) Are there any correlations between variables?
 5) Model Selection: Choose an appropriate model to predict the gender equality index. Some of the models you can use include linear regression, decision tree, random forest, and neural networks.
 
 6) Model Training: Train the chosen model on the training dataset and tune the hyperparameters to optimize its performance.
+
+7) Model Evaluation: This task involves evaluating the performance of the trained model on a test dataset using various performance metrics.
+
+8) Model Deployment: This task involves deploying the trained model in a production environment and integrating it with other systems as needed.
+
+## Scope of the project
+1) Public Policy: The insights generated from the data modeling project can help inform public policy decisions aimed at improving the well-being of citizens in different countries. For example, policymakers could use the results of the project to identify the most important factors that contribute to happiness and develop policies aimed at improving access to those factors.
+
+2) Social Impact: Non-governmental organizations and non-profits working to improve the quality of life for people around the world could use the insights generated from the project to better target their resources and programs.
+
+3) Corporate Social Responsibility: The insights generated from the project could help companies better understand the well-being of their employees and the communities in which they operate. This information could be used to inform corporate social responsibility initiatives aimed at improving employee satisfaction and community well-being.
+
+4) Academic Research: The data modeling project could contribute to academic research focused on understanding the factors that contribute to happiness and well-being.
+
+Overall, the data modeling project has the potential to create significant value for a range of stakeholders interested in understanding and improving the well-being of people around the world.
