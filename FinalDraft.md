@@ -43,5 +43,42 @@
   ![image](https://user-images.githubusercontent.com/78250442/232193327-7466c12f-d493-4a81-841d-3893dea217c2.png)
 ![image](https://user-images.githubusercontent.com/78250442/232193341-21ec62bf-cb7a-4dd8-9d2c-4e772a26bb7c.png)
 
+ ## 6. How factors influene happiness ( by Pearson Correlation )  
+ ![image](https://user-images.githubusercontent.com/78250442/233239128-54dce297-ecdf-4fe9-9dc6-700b4fb6ef32.png)  
+ Output  
+ ![image](https://user-images.githubusercontent.com/78250442/233239574-5d0167b9-ea7e-4103-92c0-cdb9039b4e00.png)
+  Creating a correlation matrix for better visualization  
+  ![image](https://user-images.githubusercontent.com/78250442/233239765-cf338a6a-b082-46f3-ae96-83b62f35b298.png)
+  Output  
+ ![image](https://user-images.githubusercontent.com/78250442/233239844-ac767d2e-542b-427d-ada6-0d93d57aa39d.png)  
+ It can be understood from the correlation matrix that GDP per captia (money) is the biggest determiner for the happiness score.    
+ ## 7. Creating a model to predict Happiness Socre  
+ a) Importing sklearn libraries and Models  
+ ![image](https://user-images.githubusercontent.com/78250442/233240801-97367a1e-5080-40a2-a300-6b03ec798a9c.png)
+ b) Creating data table, dependent variables, independent variables and train test model  
+ ![image](https://user-images.githubusercontent.com/78250442/233240932-aa47d624-0ceb-45e7-8a43-09e93815b9eb.png)  
+ c) Creating a function to test the models and then comparing MAE's(Mean Average Error)  
+ ![image](https://user-images.githubusercontent.com/78250442/233241381-4670bb95-6998-4311-9d90-1afce8c60135.png)  
+ d) Running Models  
+    i) Linear Regression  
+    ![image](https://user-images.githubusercontent.com/78250442/233241629-81293345-b878-4487-9fbc-93978f5951c0.png)  
+    ii) Random Forest Regressor  
+    ![image](https://user-images.githubusercontent.com/78250442/233241734-c62256b7-24ba-47d4-b8f9-a4ba31586e98.png)  
+    iii) Decision Tree  
+    ![image](https://user-images.githubusercontent.com/78250442/233241866-4817846e-cfaa-40a7-a761-2858c28d8f22.png)  
+    iv) Bayesian Linear Model  
+    ![image](https://user-images.githubusercontent.com/78250442/233241968-30806ede-559c-4f6f-ba61-21e6e24cd37a.png)  
+    v) Lasso Lars  
+    ![image](https://user-images.githubusercontent.com/78250442/233242094-44c4c0f6-92fe-424e-8a62-ba49b4374d98.png)  
+   Linear Regression and the Bayesian Ridge were the models that performed the best (they had the smallest mae out of all).  
+   Selecting Bayesian as the final model  
+   ![image](https://user-images.githubusercontent.com/78250442/233242349-97a095e0-e0ea-42e2-a333-e8604baa51ba.png)
+
+
+
+
+
+ 
+
 
   
