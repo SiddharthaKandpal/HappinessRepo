@@ -14,7 +14,12 @@ The ultimate goal is to identify the most important factors that contribute to h
 ## Data
 The source data have been mostly derived from the following source
 https://www.kaggle.com/datasets/unsdsn/world-happiness
-
+## Technologies Used
+[.matpolib](https://matplotlib.org/)  
+[.seaborn](https://seaborn.pydata.org/)  
+[.scikit](https://scikit-learn.org/stable/install.html)  
+[.numpy](https://numpy.org/install/)  
+[.pandas](https://pandas.pydata.org/)
 ## Plan
 This would be my plan of actions that i would take to reach my objective.
 1) Data Exploration: Start by exploring the dataset to get a better understanding of the variables, their data types, missing values, and the relationships between the variables. You can use libraries such as Pandas and NumPy to load and manipulate the dataset. Some of the questions to answer in this step are:
@@ -48,3 +53,8 @@ e) Are there any correlations between variables?
 4) Academic Research: The data modeling project could contribute to academic research focused on understanding the factors that contribute to happiness and well-being.
 
 Overall, the data modeling project has the potential to create significant value for a range of stakeholders interested in understanding and improving the well-being of people around the world.
+
+##  Documentation  
+1) [.ipynb file of the project](https://github.com/SiddharthaKandpal/HappinessRepo/blob/main/HappinessIndexAnalysis.ipynb)  
+2) [Final Draft explained](https://github.com/SiddharthaKandpal/HappinessRepo/blob/main/FinalDraft.md)  
+3) [Data](https://github.com/SiddharthaKandpal/HappinessRepo/tree/main/data) 
